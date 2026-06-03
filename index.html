@@ -2474,17 +2474,31 @@ function EmojiCard({ emoji, anchor }) {
         animation: "cardIn .25s cubic-bezier(.22,.61,.36,1) both"
       }}>
       
-      <div
-        className="placeholder-stripe"
-        style={{
-          width: "100%",
-          aspectRatio: "16 / 10",
-          borderRadius: 11,
-          marginBottom: 10
-        }}>
-        
-        photo · {emoji.char}
-      </div>
+            {emoji.src ? (
+        <img
+          src={emoji.src}
+          alt={emoji.title}
+          style={{
+            width: "100%",
+            aspectRatio: "16 / 10",
+            borderRadius: 11,
+            marginBottom: 10,
+            objectFit: "cover",
+            display: "block"
+          }}
+        />
+      ) : (
+        <div
+          className="placeholder-stripe"
+          style={{
+            width: "100%",
+            aspectRatio: "16 / 10",
+            borderRadius: 11,
+            marginBottom: 10
+          }}>
+          photo · {emoji.char}
+        </div>
+      )}
       <div style={{
         fontSize: 13,
         lineHeight: "18px",
