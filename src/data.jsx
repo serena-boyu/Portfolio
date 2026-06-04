@@ -87,6 +87,7 @@ const EMOJIS = [
     char: "🐉",
     title: "Dragon dance, in college",
     body: "I learned and performed Chinese dragon dance with my college troupe. Synchronizing with seven other people teaches you a lot about systems.",
+    img: "assets/funPics/emojiHovers/dragondance.jpg",
   },
   {
     char: "📷",
