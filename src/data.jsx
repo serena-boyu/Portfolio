@@ -14,7 +14,7 @@ window.ASSET = (id, path) => (window.__resources && window.__resources[id]) || p
 //   • Project cover image:       `coverSrc` on a PROJECT_PAGE entry
 //   • Case-study section images: `figures: [{ src, caption }]` on a section
 //   • Galleries / journey / archive: `src` on each item in the data below
-window.PORTRAIT_SRC = ""; // e.g. "assets/portrait.jpg"
+window.PORTRAIT_SRC = "assets/funPics/serena_ng_portrait.avif"; // e.g. "assets/portrait.jpg"
 
 const PROJECTS = [
   {
