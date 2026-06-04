@@ -74,7 +74,7 @@ const PROJECTS = [
     team: "Designer, editor, dev, illustrator",
     thumb: "stripe",
     color: "rgb(34, 110, 90)",
-    img: "assets/projectThumbnails/ecolab.avif",
+    img: "assets/projectThumbnails/ecolab.jpg",
   },
 ];
 
