@@ -780,8 +780,8 @@ const PLAYGROUND_CATEGORIES = {
     emoji: "📷",
     title: "Photography",
     archiveTitle: "Photography Archive",
-    archiveIntro: "Mostly shot on a Canon EOS R50 and a hand-me-down film SLR. Wandering Boston, Beijing, and wherever else I land.",
-    body: "Mostly film, sometimes my Canon R50. Boston, Beijing, Brooklyn — wherever I'm walking.",
+    archiveIntro: "Mostly shot on a Canon EOS R50. Catch me exploring new places and occasionally taking graduation pictures.",
+    body: "Mostly shot on a Canon EOS R50. Catch me exploring new places and occasionally taking graduation pictures.",
     archiveLabel: "Photo Archive",
     items: [
     { label: "autumn", imgTitle: "Autumn in Wisconsin", imgCaption: "The view of Wisconsin's colorful trees in autumn.", src: "assets/playground/photography/autumn.png" },
