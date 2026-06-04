@@ -48,8 +48,9 @@ const PROJECTS = [
     year: "2023",
     duration: "8 weeks",
     team: "2 designers, PM, 5 engineers",
-    thumb: "assets/projectThumbnails/jfkt4.webp",
+    thumb: "stripes",
     color: "rgb(21, 60, 110)",
+    img: "assets/projectThumbnails/jfkt4.webp",
   },
   {
     id: "snyk",
