@@ -721,11 +721,13 @@ function About({ onNavigate }) {
         <div className="about-two-col" style={{ marginTop: 56, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Experience</div>
-            <MetaItem label="Patient experience designer" value="Epic Systems · 2025—" />
-            <MetaItem label="Brand designer (co-op)" value="Ronik Design Agency · 2022" />
-            <MetaItem label="Product design intern" value="Snyk Cybersecurity · 2023" />
-            <MetaItem label="B.S. Design" value="Northeastern University · 2020—2024" />
-            <MetaItem label="Currently learning" value="ASL · sourdough · After Effects" />
+            <MetaItem label="Patient experience @" value="Epic Systems · 2025—" />
+            <MetaItem label="UX designer @" value="SearchNEU · 2024" />
+            <MetaItem label="UX designer @" value="Ronik Design Agency · 2024" />
+            <MetaItem label="Product researcher + designer @" value="Snyk Cybersecurity · 2023" />
+            <MetaItem label="UX designer @" value="Sandbox Software Consultancy · 2022" />
+            <MetaItem label="BFA UX Design @" value="Northeastern University" />
+            <MetaItem label="Currently learning" value="vibe coding · photography · sleight of hand" />
           </div>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Client work</div>
