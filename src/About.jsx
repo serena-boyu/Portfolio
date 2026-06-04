@@ -784,7 +784,7 @@ const PLAYGROUND_CATEGORIES = {
     { label: "chinatown", imgTitle: "Boston's Chinatown", imgCaption: "Captured after the annual Chinese New Year Lion Dance parade.", src: "assets/playground/photography/boston_chinatown_gate.webp" },
     { label: "foggyTreeBranch", imgTitle: "A foggy night", imgCaption: "Every foggy night is optimal photography time.", src: "assets/playground/photography/tree_branch_foggy_night.png" },
     { label: "dayTreeBranch", imgTitle: "Right before the leaves change color", imgCaption: "I go on many walks to watch the leaves change color in autumn.", src: "assets/playground/photography/tree_branch_day.png" },
-    { label: "fenway", imgTitle: "Fenway in Boston", imgCaption: "An iconic neighborhood in Boston and also where I had my college graduation!" },
+    { label: "fenway", imgTitle: "Fenway in Boston", imgCaption: "An iconic neighborhood in Boston and also where I had my college graduation!", src: "assets/playground/photography/boston_fenway.avif" },
     { label: "foggyNight", imgTitle: "A foggy night", imgCaption: "Every foggy night is optimal photography time.", src: "assets/playground/photography/foggy_streetlight.png" },
     { label: "fog", imgTitle: "Esplanade in the fog", imgCaption: "A 6am run that turned into a photo walk." },
     { label: "market", imgTitle: "Haymarket Saturday", imgCaption: "The loudest, most colorful corner of the city." }]
