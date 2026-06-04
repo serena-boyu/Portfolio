@@ -62,6 +62,7 @@ const PROJECTS = [
     team: "Designer, PM, 6 engineers",
     thumb: "stripe",
     color: "rgb(78, 36, 142)",
+    img: "assets/projectThumbnails/snyk.png",
   },
   {
     id: "ecolab",
