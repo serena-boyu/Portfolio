@@ -736,7 +736,12 @@ function About({ onNavigate }) {
               <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Reuters</strong>,
               <strong style={{ color: "var(--ink)", fontWeight: 600 }}> JFK Airport T4</strong>, 
               <strong style={{ color: "var(--ink)", fontWeight: 600 }}> NBCUniversal</strong>, 
-              and <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Ecolab</strong>.
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Ogilvy</strong>, 
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Ecolab</strong>, 
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}> PGIM (formerly Prudential Investment)</strong>, 
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Leading Edge</strong>, 
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}> Flo. Marketing</strong>, 
+              and more.
             </p>
             <p style={{ margin: "12px 0 0", fontWeight: 300, fontSize: 14, lineHeight: "22px", letterSpacing: "-0.02em", color: "rgba(0,0,0,0.7)" }}>
               Open to freelance — drop a line at <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}>serena.ng.contact@gmail.com</a>.
