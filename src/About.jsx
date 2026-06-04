@@ -721,18 +721,20 @@ function About({ onNavigate }) {
         <div className="about-two-col" style={{ marginTop: 56, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Experience</div>
-            <MetaItem label="Patient experience - quality manager" value="Epic Systems · 2025—" />
-            <MetaItem label="UX designer" value="SearchNEU · 2024" />
-            <MetaItem label="UX designer" value="Ronik Design Agency · 2024" />
-            <MetaItem label="Product researcher + designer" value="Snyk Cybersecurity · 2023" />
-            <MetaItem label="UX designer" value="Sandbox Software Consultancy · 2022" />
+            <MetaItem label="Patient Experience Quality Manager" value="Epic Systems · 2025—" />
+            <MetaItem label="UX Designer" value="SearchNEU · 2024" />
+            <MetaItem label="UX Designer" value="Ronik Design Agency · 2024" />
+            <MetaItem label="Product Researcher + Designer" value="Snyk Cybersecurity · 2023" />
+            <MetaItem label="UX Designer" value="Sandbox Software Consultancy · 2022" />
             <MetaItem label="BFA UX Design" value="Northeastern University" />
             <MetaItem label="Currently learning" value="vibe coding · photography · sleight of hand" />
           </div>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Client work</div>
             <p style={{ margin: 0, fontWeight: 300, fontSize: 14, lineHeight: "22px", letterSpacing: "-0.02em", color: "rgba(0,0,0,0.7)" }}>
-              I've worked on projects with clients including <strong style={{ color: "var(--ink)", fontWeight: 600 }}>Reuters</strong>, <strong style={{ color: "var(--ink)", fontWeight: 600 }}>JFK Airport T4</strong>, <strong style={{ color: "var(--ink)", fontWeight: 600 }}>NBCUniversal</strong>, and <strong style={{ color: "var(--ink)", fontWeight: 600 }}>Ecolab</strong>.
+              I've worked on projects with clients including 
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}>Reuters</strong>,
+              <strong style={{ color: "var(--ink)", fontWeight: 600 }}>JFK Airport T4</strong>, <strong style={{ color: "var(--ink)", fontWeight: 600 }}>NBCUniversal</strong>, and <strong style={{ color: "var(--ink)", fontWeight: 600 }}>Ecolab</strong>.
             </p>
             <p style={{ margin: "12px 0 0", fontWeight: 300, fontSize: 14, lineHeight: "22px", letterSpacing: "-0.02em", color: "rgba(0,0,0,0.7)" }}>
               Open to freelance — drop a line at <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}>serena.ng.contact@gmail.com</a>.
