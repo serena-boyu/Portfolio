@@ -721,10 +721,10 @@ function About({ onNavigate }) {
         <div className="about-two-col" style={{ marginTop: 56, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Experience</div>
-            <MetaItem label="Patient Experience Quality Manager" value="Epic Systems · 2025—Present" />
+            <MetaItem label="Patient Experience Software Quality Manager" value="Epic Systems · 2025—Present" />
             <MetaItem label="UX Designer" value="SearchNEU · 2024—2025" />
-            <MetaItem label="UX Designer" value="Ronik Design Agency · 2024" />
-            <MetaItem label="Product Researcher + Designer" value="Snyk Cybersecurity · 2023" />
+            <MetaItem label="UX/UI Designer" value="Ronik Design Agency · 2024" />
+            <MetaItem label="Product Designer + Researcher" value="Snyk Cybersecurity · 2023" />
             <MetaItem label="UX Designer" value="Sandbox Software Consultancy · 2022" />
             <MetaItem label="BFA in UX Design" value="Northeastern University" />
             <MetaItem label="Currently learning" value="vibe coding · photography · sleight of hand" />
@@ -745,7 +745,7 @@ function About({ onNavigate }) {
             </p>
             <p style={{ margin: "12px 0 0", fontWeight: 300, fontSize: 14, lineHeight: "22px", letterSpacing: "-0.02em", color: "rgba(0,0,0,0.7)" }}>
               Got an opportunity for me? — Send a message to 
-              <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}>serena.ng.contact@gmail.com</a>.
+              <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}> serena.ng.contact@gmail.com</a>.
             </p>
           </div>
         </div>
