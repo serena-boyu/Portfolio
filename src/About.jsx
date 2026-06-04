@@ -726,7 +726,7 @@ function About({ onNavigate }) {
             <MetaItem label="UX Designer" value="Ronik Design Agency · 2024" />
             <MetaItem label="Product Researcher + Designer" value="Snyk Cybersecurity · 2023" />
             <MetaItem label="UX Designer" value="Sandbox Software Consultancy · 2022" />
-            <MetaItem label="BFA UX Design" value="Northeastern University" />
+            <MetaItem label="BFA in UX Design" value="Northeastern University" />
             <MetaItem label="Currently learning" value="vibe coding · photography · sleight of hand" />
           </div>
           <div>
