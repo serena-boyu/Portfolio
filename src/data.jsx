@@ -85,34 +85,34 @@ const EMOJIS = [
   },
   {
     char: "🐉",
-    title: "Dragon dance, in college",
-    body: "I learned and performed Chinese dragon dance with my college troupe. Synchronizing with seven other people teaches you a lot about systems.",
+    title: "Chinese dragon dance!",
+    body: "I learned and performed Chinese dragon dance with my college troupe. Synchronizing with 8+ people teaches you a lot about teamwork.",
     img: "assets/funPics/emojiHovers/dragondance.jpg",
   },
   {
     char: "📷",
-    title: "Always carrying a camera",
-    body: "Film, mostly. I like the way it slows me down — one shot at a time, no chimping.",
+    title: "Capturing the world",
+    body: "I have a Canon EOS R50, which is a small but mighty camera. I also took grad pics for my college friends!",
   },
   {
     char: "🍽️",
     title: "Certified foodie",
-    body: "I keep a running list of restaurants to try and I'm always first to book the new spot in town. Tasting menus are my love language.",
+    body: "Follow me on Beli @serenang to see my restaurant rankings! I especially love a good ramen.",
   },
   {
     char: "💻",
-    title: "Always tinkering on something",
-    body: "Nights and weekends you'll find me prototyping side projects. Half of them never ship — but I learn something every time.",
+    title: "Always tinkering",
+    body: "Latest adventure is using AI to vibe codde my designs fast. I've also dabbled in Arduino, laser cutting, and 3D printing.",
   },
   {
     char: "🧋",
     title: "Boba is a food group",
-    body: "Half-sugar, oat milk, extra pearls. I have strong opinions and a running list of the best shops in every city I visit.",
+    body: "Earl grey milk tea with 50% sugar + less ice. My bar is high since my homemade milk tea is quite good :)",
   },
   {
     char: "🎧",
-    title: "Headphones always on",
-    body: "I design to a rotation of lo-fi, jazz, and the occasional hyperpop. The right playlist is half the work.",
+    title: "Music and concert goer",
+    body: "I always have music playing as I work. My playlists are a mix of pop, k-pop, r&b, lo-fi, and movie soundtracks.",
   },
 ];
 
