@@ -780,7 +780,7 @@ const PLAYGROUND_CATEGORIES = {
     body: "Mostly film, sometimes my Canon R50. Boston, Beijing, Brooklyn — wherever I'm walking.",
     archiveLabel: "Photo Archive",
     items: [
-    { label: "autumn", imgTitle: "Autumn in Wisconsin", imgCaption: "The view of Wisconsin's colorful trees in autumn.", img: "assets/playground/photography/autumn.png" },
+    { label: "autumn", imgTitle: "Autumn in Wisconsin", imgCaption: "The view of Wisconsin's colorful trees in autumn.", src: "assets/playground/photography/autumn.png" },
     { label: "chinatown", imgTitle: "Boston's Chinatown", imgCaption: "Captured after the annual Chinese New Year Lion Dance parade." },
     { label: "foggyTreeBranch", imgTitle: "A foggy night", imgCaption: "Every foggy night is optimal photography time.", img: "tree_branch_foggy_night.png" },
     { label: "subway", imgTitle: "Red Line, Park Street", imgCaption: "I have an entire folder of empty-train shots." },
