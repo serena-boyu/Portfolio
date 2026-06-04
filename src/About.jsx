@@ -748,7 +748,8 @@ I’ve been looking for better ways to do things ever since.",
               and more.
             </p>
             <p style={{ margin: "12px 0 0", fontWeight: 300, fontSize: 14, lineHeight: "22px", letterSpacing: "-0.02em", color: "rgba(0,0,0,0.7)" }}>
-              Got an opportunity for me? — Send a message to <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}>serena.ng.contact@gmail.com</a>.
+              Got an opportunity for me? — Send a message to 
+              <a href="mailto:serena.ng.contact@gmail.com" style={{ color: "var(--accent)" }}>serena.ng.contact@gmail.com</a>.
             </p>
           </div>
         </div>
