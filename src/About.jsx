@@ -654,7 +654,11 @@ function ContactForm() {
 
 function About({ onNavigate }) {
   const journey = [
-  { year: "2018", title: "Started designing in high school", body: "Made a Tumblr theme that, somehow, 12,000 people used. First time I realized other people interact with the things I make.", image: "high school", imgTitle: "First portfolio site", imgCaption: "The Tumblr theme that started it all — built in a dorm room." },
+  { year: "Childhood", title: "Raised by a problem solver", 
+   body: "My dad taught me to work smarter, not harder — and the importance of design for real people in real contexts. <br>When our green garden tools disappeared into the grass, my dad tied bright ribbons to them. When my hair got caught in the exposed wheels of a car creeper, he bought one designed with covered wheels instead. Clearly they hadn’t anticipated a user with long hair.
+
+I’ve been looking for better ways to do things ever since.",
+  image: "high school", imgTitle: "First portfolio site", imgCaption: "The Tumblr theme that started it all — built in a dorm room." },
   { year: "2020", title: "Northeastern, College of Arts, Media & Design", body: "Studied design with a co-op program. Year one in Boston, year two pivoting between research and visual.", image: "Boston", imgTitle: "Studio nights at Ryder Hall", imgCaption: "Most of design school happened between midnight and 3am." },
   { year: "2022", title: "Co-op at Ronik Design Agency", body: "Six months on brand systems for cultural clients. Learned that good brand work is mostly listening.", image: "Ronik", imgTitle: "NYC, Ronik studio", imgCaption: "My desk during the JFK Airport T4 rebrand sprint." },
   { year: "2023", title: "Product Design Intern at Snyk", body: "Summer on the developer-experience team. Shipped the SBOM dashboard from research through launch.", image: "Snyk", imgTitle: "Snyk intern demo day", imgCaption: "Presenting the SBOM dashboard to the whole DevEx org." },
