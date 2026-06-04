@@ -98,6 +98,7 @@ const EMOJIS = [
     char: "🍽️",
     title: "Certified foodie",
     body: "Follow me on Beli @serenang to see my restaurant rankings! I especially love a good ramen.",
+    src: "assets/funPics/emojiHovers/dragondance.jpg",
   },
   {
     char: "💻",
