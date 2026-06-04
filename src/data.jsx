@@ -38,6 +38,7 @@ const PROJECTS = [
     team: "Solo design, 4 engineers",
     thumb: "image", // uses real asset
     color: "rgb(232, 76, 76)",
+    img: "assets/projectThumbnails/searchneu.png",
   },
   {
     id: "jfk",
