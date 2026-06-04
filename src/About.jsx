@@ -721,12 +721,12 @@ function About({ onNavigate }) {
         <div className="about-two-col" style={{ marginTop: 56, display: "grid", gridTemplateColumns: "1fr 1fr", gap: 48 }}>
           <div>
             <div style={{ fontSize: 15, fontWeight: 700, letterSpacing: "-0.02em", marginBottom: 16 }}>Experience</div>
-            <MetaItem label="Patient experience @" value="Epic Systems · 2025—" />
-            <MetaItem label="UX designer @" value="SearchNEU · 2024" />
-            <MetaItem label="UX designer @" value="Ronik Design Agency · 2024" />
-            <MetaItem label="Product researcher + designer @" value="Snyk Cybersecurity · 2023" />
-            <MetaItem label="UX designer @" value="Sandbox Software Consultancy · 2022" />
-            <MetaItem label="BFA UX Design @" value="Northeastern University" />
+            <MetaItem label="Patient experience - quality manager" value="Epic Systems · 2025—" />
+            <MetaItem label="UX designer" value="SearchNEU · 2024" />
+            <MetaItem label="UX designer" value="Ronik Design Agency · 2024" />
+            <MetaItem label="Product researcher + designer" value="Snyk Cybersecurity · 2023" />
+            <MetaItem label="UX designer" value="Sandbox Software Consultancy · 2022" />
+            <MetaItem label="BFA UX Design" value="Northeastern University" />
             <MetaItem label="Currently learning" value="vibe coding · photography · sleight of hand" />
           </div>
           <div>
