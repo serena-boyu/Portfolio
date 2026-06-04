@@ -781,8 +781,8 @@ const PLAYGROUND_CATEGORIES = {
     archiveLabel: "Photo Archive",
     items: [
     { label: "autumn", imgTitle: "Autumn in Wisconsin", imgCaption: "The view of Wisconsin's colorful trees in autumn.", img: "assets/playground/photography/autumn.png" },
-    { label: "fenway", imgTitle: "An apartment in Fenway", imgCaption: "Late-afternoon light through century-old windows." },
-    { label: "harbor", imgTitle: "Boston Harbor, 6am", imgCaption: "Worth the early alarm for fog over the water." },
+    { label: "chinatown", imgTitle: "Boston's Chinatown", imgCaption: "Captured after the annual Chinese New Year Lion Dance parade." },
+    { label: "foggyTreeBranch", imgTitle: "A foggy night", imgCaption: "Every foggy night is optimal photography time.", img: "tree_branch_foggy_night.png" },
     { label: "subway", imgTitle: "Red Line, Park Street", imgCaption: "I have an entire folder of empty-train shots." },
     { label: "beijing", imgTitle: "Hutong alley, Beijing", imgCaption: "Visiting family — the city never stops moving." },
     { label: "brooklyn", imgTitle: "Rooftop in Brooklyn", imgCaption: "Golden hour on a friend's fire escape." },
