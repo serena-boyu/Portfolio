@@ -54,7 +54,7 @@ const PROJECTS = [
   },
   {
     id: "snyk",
-    title: "Snyk",
+    title: "Snyk Cybersecurity",
     blurb: "Revealing code dependencies with SBOMs for transparent development.",
     role: "Product Design Intern",
     year: "2023",
@@ -378,7 +378,7 @@ const PROJECT_PAGE = {
   },
 
   snyk: {
-    title: "Snyk",
+    title: "Snyk Cybersecurity",
     subtitle: "Revealing code dependencies with Software Bills of Materials (SBOMs) for transparent development.",
     cover: "image",
     meta: [
